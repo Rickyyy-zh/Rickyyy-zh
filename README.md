@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Computer Vision / Deep Learning / 3D Detection 
-- 🌱 I’m currently learning Computer Vision / Deep Learning / 3D Detection
+- 🔭 I’m currently working on Computer Vision / Multimodal 
 - 📧 How to find me: zhangq_07@outlook.com
 - 💻 Main language Python/C++
 
